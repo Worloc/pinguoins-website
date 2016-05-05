@@ -1,0 +1,19 @@
+{
+  "name": "pingouin-website",
+  "version": "0.0.1",
+  "description": "pingouin-website server",
+  "scripts": {
+    "test": "vows --spec --isolate",
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {
+    
+  },
+  "private": true,
+  "license": "MIT"
+}
+  
